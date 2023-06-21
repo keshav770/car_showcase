@@ -14,8 +14,8 @@ const NavBar = () => (
           height={18}
           className='object-contain'
         />
-      </Link>
       <sub>by Keshav</sub>
+      </Link>
 
       <CustomButton
         title='Sign in'
